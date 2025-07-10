@@ -6,9 +6,6 @@ This folder contains the implementation of LoRA in GPT-2 using the Python packag
 *Edward J. Hu\*, Yelong Shen\*, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen* <br>
 Paper: https://arxiv.org/abs/2106.09685 <br>
 
-<p>
-<img src="figures/LoRA_GPT2.PNG" width="800" >
-</p>
 
 This repo reproduces our experiments on GPT-2.
 
